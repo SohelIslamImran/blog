@@ -38,6 +38,16 @@ nav h2 span {
     height: 440px;
 }
 
+.post img {
+    transition-property: transform filter;
+    transition: 0.5s;
+}
+
+.post img:hover {
+    transform: scale(1.1);
+    filter: brightness(70%);
+}
+
 .profile {
     height: 50px;
 }
