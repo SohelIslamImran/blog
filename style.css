@@ -1,0 +1,67 @@
+* {
+  /*   font-family: 'Montserrat', sans-serif; */
+
+}
+body {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.social i:hover {
+    color: #ec6a2a;
+    cursor: pointer;
+}
+
+nav li {
+    padding: 10px;
+    cursor: pointer;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #333333;
+    font-weight: 600;
+}
+
+nav h2 span {
+    color: #ec6a2a;
+}
+.thumbnail {
+    height: 520px;
+    cursor: pointer;
+}
+
+.thumbnail img {
+    filter: brightness(70%);
+}
+
+.post {
+    height: 440px;
+}
+
+.profile {
+    height: 50px;
+}
+
+.profile p span {
+    padding: 15px;
+    font-size: .9rem;
+}
+
+.orange-line {
+    color: #ec6a2a;
+    font-weight: 900;
+}
+
+.more-about {
+    color: #ec6a2a;
+    cursor: pointer;
+}
+
+.header-text:hover {
+    color: #ec6a2a;
+    cursor: pointer;
+}
+
+.header-pic:hover {
+    cursor: pointer;
+}
